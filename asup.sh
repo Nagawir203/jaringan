@@ -11,6 +11,7 @@ figlet " SELAMAT DATANG " | lolcat
 echo
 sleep 2
 echo
+clear
 read -p " masukan nama anda: " nama
 echo
 sleep 2
